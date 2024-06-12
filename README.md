@@ -1,6 +1,6 @@
 - 👋 Hi, I’m tMalice
 - 👀 I’m interested in music, code, and helping each other out.
-- 🌱 I’m currently learning Java, Vietnamese, and anything I don't know yet.
+- 🌱 I’m currently learning Python, Vietnamese, and anything I don't know yet.
 - 💞️ I’m looking to collaborate on useful projects, things made with heart, and good practice.
 - 📫 How to reach me... well I'm here :)
 
